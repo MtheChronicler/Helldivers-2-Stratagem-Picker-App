@@ -1,3 +1,64 @@
 <resources>
     <string name="app_name">Helldivers 2 Stratagem Picker</string>
+    <string name="any_enemy_string">Automatons or terminids</string>
+    <string name="automatons_string">Automatons</string>
+    <string name="terminids_string">Terminids</string>
+    <!-- stratagem names -->
+    <!--orbital-->
+    <string name="orbital_precision">Orbital Precision Strike</string>
+    <string name="orbital_airburst">Orbital Airburst Strike</string>
+    <string name="orbital_120mm">Orbital 120MM HE Barrage</string>
+    <string name="orbital_380mm">Orbital 380MM HE Barrage</string>
+    <string name="orbital_walking">Orbital Walking Barrage</string>
+    <string name="orbital_laser">Orbital Laser</string>
+    <string name="orbital_railcannon">Orbital Railcannon Strike</string>
+    <string name="orbital_gatling">Orbital Gatling Barrage</string>
+    <string name="orbital_gas">Orbital Gas Strike</string>
+    <string name="orbital_ems">Orbital EMS Strike</string>
+    <string name="orbital_smoke">Orbital Smoke Strike</string>
+    <!--eagle-->
+    <string name="eagle_strafing">Eagle Strafing Run</string>
+    <string name="eagle_airstrike">Eagle Airstrike</string>
+    <string name="eagle_cluster">Eagle Cluster Bomb</string>
+    <string name="eagle_napalm">Eagle Napalm Strike</string>
+    <string name="eagle_smoke">Eagle Smoke Strike</string>
+    <string name="eagle_110mm">Eagle 110MM Rocket Pods</string>
+    <string name="eagle_500kg">Eagle 500kg Bomb</string>
+    <!--support_weapon-->
+    <string name="weapon_autocannon">AC-8 Autocannon</string>
+    <string name="weapon_eat">EAT-17 Expendable Anti-tank</string>
+    <string name="weapon_flamethrower">FLAM-40 Flamethrower</string>
+    <string name="weapon_laser_cannon">LAS-98 Laser Cannon</string>
+    <string name="weapon_stalwart">M-105 Stalwart</string>
+    <string name="weapon_machine_gun">MG-43 Machine Gun</string>
+    <string name="weapon_arc_thrower">ARC-3 Arc Thrower</string>
+    <string name="weapon_grenade_launcher">GL-21 Grenade Launcher</string>
+    <string name="weapon_anti_materiel">APW-1 Anti-Materiel Rifle</string>
+    <string name="weapon_railgun">RS-422 Railgun</string>
+    <string name="weapon_recoiless">GR-8 Recoilless Rifle</string>
+    <string name="weapon_spear">FAF-14 SPEAR Launcher</string>
+    <string name="weapon_quasar">LAS-99 Quasar Cannon</string>
+    <string name="weapon_heavy_machine_gun">MG-206 Heavy Machine Gun</string>
+    <!--backpack-->
+    <string name="backpack_guard_dog_laser">AX/LAS-5 Guard Dog Rover</string>
+    <string name="backpack_guard_dog_machine_gun">AX/AR-23 Guard Dog</string>
+    <string name="backpack_jump_pack">LIFT-850 Jump Pack</string>
+    <string name="backpack_supply">B-1 Supply Pack</string>
+    <string name="backpack_shield_generator">SH-32 Shield Generator Pack</string>
+    <string name="backpack_ballistic_shield">SH-20 Ballistic Shield Backpack</string>
+    <!--sentry-->
+    <string name="sentry_tesla">A/ARC-3 Tesla Tower</string>
+    <string name="sentry_mortar">A/M-12 Mortar Sentry</string>
+    <string name="sentry_ems_mortar">A/M-23 EMS Mortar Sentry</string>
+    <string name="sentry_machine_gun">A/MG-43 Machine Gun Sentry</string>
+    <string name="sentry_gatling">A/G-16 Gatling Sentry</string>
+    <string name="sentry_autocannon">A/AC-8 Autocannon Sentry</string>
+    <string name="sentry_rocket">A/MLS-4X Rocket Sentry</string>
+    <!--emplacement-->
+    <string name="emplacement_mines">MD-6 Anti-Personnel Minefield</string>
+    <string name="emplacement_mines_incendiary">MD-I4 Incendiary Mines</string>
+    <string name="emplacement_shield_generator">FX-12 Shield Generator Relay</string>
+    <string name="emplacement_hmg">E/MG-101 HMG Emplacement</string>
+    <!--vehicle-->
+    <string name="vehicle_patriot">EXO-45 Patriot Exosuit</string>
 </resources>
