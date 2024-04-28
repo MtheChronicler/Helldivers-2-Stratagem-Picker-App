@@ -38,6 +38,7 @@ val stratagemList: List<Stratagem> = listOf(
     Stratagem(name="weapon_spear", typ="weapon", enemy="any", tags=listOf("backpack")),
     Stratagem(name="weapon_quasar", typ="weapon", enemy="any", tags=listOf()),
     Stratagem(name="weapon_heavy_machine_gun", typ="weapon", enemy="any", tags=listOf()),
+    Stratagem(name="weapon_airburst", typ="weapon", enemy="any", tags=listOf("backpack")),
     //backpack
     Stratagem(name="backpack_guard_dog_laser", typ="backpack", enemy="any", tags=listOf("backpack")),
     Stratagem(name="backpack_guard_dog_machine_gun", typ="backpack", enemy="any", tags=listOf("backpack")),

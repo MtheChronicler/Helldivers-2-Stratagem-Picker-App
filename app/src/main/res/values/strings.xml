@@ -39,6 +39,7 @@
     <string name="weapon_spear">FAF-14 SPEAR Launcher</string>
     <string name="weapon_quasar">LAS-99 Quasar Cannon</string>
     <string name="weapon_heavy_machine_gun">MG-206 Heavy Machine Gun</string>
+    <string name="weapon_airburst">RL-77 Airburst Rocket Launcher</string>
     <!--backpack-->
     <string name="backpack_guard_dog_laser">AX/LAS-5 Guard Dog Rover</string>
     <string name="backpack_guard_dog_machine_gun">AX/AR-23 Guard Dog</string>
