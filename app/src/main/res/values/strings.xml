@@ -62,4 +62,5 @@
     <string name="emplacement_hmg">E/MG-101 HMG Emplacement</string>
     <!--vehicle-->
     <string name="vehicle_patriot">EXO-45 Patriot Exosuit</string>
+    <string name="vehicle_emancipator">EXO-49 Emancipator Exosuit</string>
 </resources>

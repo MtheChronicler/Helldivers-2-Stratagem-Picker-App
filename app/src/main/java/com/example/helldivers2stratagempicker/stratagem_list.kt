@@ -28,7 +28,7 @@ val stratagemList: List<Stratagem> = listOf(
     Stratagem(name="weapon_eat", typ="weapon", enemy="any", tags=listOf()),
     Stratagem(name="weapon_flamethrower", typ="weapon", enemy="terminids", tags=listOf()),
     Stratagem(name="weapon_laser_cannon", typ="weapon", enemy="any", tags=listOf()),
-    Stratagem(name="weapon_stalwart", typ="weapon", enemy="terminids", tags=listOf()),
+    Stratagem(name="weapon_stalwart", typ="weapon", enemy="any", tags=listOf()),
     Stratagem(name="weapon_machine_gun", typ="weapon", enemy="any", tags=listOf()),
     Stratagem(name="weapon_arc_thrower", typ="weapon", enemy="any", tags=listOf()),
     Stratagem(name="weapon_grenade_launcher", typ="weapon", enemy="any", tags=listOf()),
@@ -57,8 +57,9 @@ val stratagemList: List<Stratagem> = listOf(
     //emplacement
     Stratagem(name="emplacement_mines", typ="emplacement", enemy="any", tags=listOf("mines")),
     Stratagem(name="emplacement_mines_incendiary", typ="emplacement", enemy="any", tags=listOf("mines")),
-    Stratagem(name="emplacement_shield_generator", typ="emplacement", enemy="automatons", tags=listOf()),
+    Stratagem(name="emplacement_shield_generator", typ="emplacement", enemy="any", tags=listOf()),
     Stratagem(name="emplacement_hmg", typ="emplacement", enemy="any", tags=listOf()),
     //vehicle
-    Stratagem(name="vehicle_patriot", typ="vehicle", enemy="any", tags=listOf())
+    Stratagem(name="vehicle_patriot", typ="vehicle", enemy="any", tags=listOf()),
+    Stratagem(name="vehicle_emancipator", typ="vehicle", enemy="any", tags=listOf())
 )
